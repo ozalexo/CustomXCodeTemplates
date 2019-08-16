@@ -62,5 +62,13 @@
 			<integer>99</integer>
 		</dict>
 	</dict>
+	<key>Project</key>
+	<dict>
+		<key>SharedSettings</key>
+		<dict>
+			<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+			<string>12.0</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
